@@ -1,7 +1,6 @@
 CSE 5330_005 - Database Systems
 
 Sai Subhash Yalamadala - 1002031729
-Akshitha Bojje - 1001880904
 
 Art Gallery Implementation
 
